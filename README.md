@@ -11,9 +11,10 @@ The steps required:
 3. The file will output:
 
 A pie chart of the results
-
+https://github.com/uzmportfolio/MovieSentiment/blob/main/Result_pie_chart.png
 
 The resulting dataframe, with the text and polarity in the graph
-
+https://github.com/uzmportfolio/MovieSentiment/blob/main/Results_df.png
 
 Percentages and comparisons of results.
+https://github.com/uzmportfolio/MovieSentiment/blob/main/Report.png
