@@ -8,13 +8,14 @@ The steps required:
    pip install -r requirements
 2. Input your search word and how many movies you would like to analyse.
    Suggestion for search word: Dystopia
+   IMDB KEY WORDS LIST -  https://www.imdb.com/search/keyword/
 3. The file will output:
 
 A pie chart of the results
-https://github.com/uzmportfolio/MovieSentiment/blob/main/Result_pie_chart.png
+![alt text](https://github.com/uzmportfolio/MovieSentiment/blob/main/Result_pie_chart.png)
 
 The resulting dataframe, with the text and polarity in the graph
-https://github.com/uzmportfolio/MovieSentiment/blob/main/Results_df.png
+![alt text](https://github.com/uzmportfolio/MovieSentiment/blob/main/Results_df.png)
 
 Percentages and comparisons of results.
-https://github.com/uzmportfolio/MovieSentiment/blob/main/Report.png
+![alt text](https://github.com/uzmportfolio/MovieSentiment/blob/main/Report.png)
